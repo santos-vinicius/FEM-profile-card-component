@@ -24,8 +24,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution at [Frontend Mentor.](https://your-solution-url.com)
-- Live Site URL: [Profile card component.](https://your-live-site-url.com)
+- Solution at [Frontend Mentor.](https://www.frontendmentor.io/solutions/htmlcss-profile-card-component-ASwkD4ub0)
+- Live Site URL: [Profile card component.](https://fm-profile-card-component-rouge.vercel.app/)
 
 ## My process
 
